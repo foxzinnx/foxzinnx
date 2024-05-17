@@ -37,7 +37,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/foxzinnx/foxzinnx/main/snake.yml" alt="Snake animation" />
 
 ###
 
