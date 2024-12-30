@@ -8,6 +8,7 @@
 <div align="center">
   <p align="center">Follow me on social media</p>
 
+<a href="https://www.linkedin.com/in/bryangomes"><img src="https://img.shields.io/badge/-LinkedIn-0060ab?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://www.youtube.com/@foxzinsec"><img src="https://img.shields.io/youtube/channel/subscribers/UCNZRvS-8Ma-UtchhgPO97VQ" alt="Youtube" /></a>
 <a href="https://x.com/foxzincrf"><img src="https://img.shields.io/twitter/follow/foxzincrf" alt="Twitter"></a>
 
