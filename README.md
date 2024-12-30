@@ -10,3 +10,5 @@
 
 <a href="https://www.youtube.com/@foxzinsec"><img src="https://img.shields.io/youtube/channel/subscribers/UCNZRvS-8Ma-UtchhgPO97VQ" alt="Youtube" /></a>
 <a href="https://x.com/foxzincrf"><img src="https://img.shields.io/twitter/follow/foxzincrf" alt="Twitter"></a>
+
+![fox_activity](https://github-readme-activity-graph.vercel.app/graph?username=foxzinnx&bg_color=0d1117&color=FFF&line=FFF&point=FFF&area=true&hide_border=true)
