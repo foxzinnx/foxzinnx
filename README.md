@@ -1,4 +1,4 @@
-<h3 align="center">brazilian Developer</h3>
+<h3 align="center">Fullstack Developer</h3>
 
 <p align="center">java · typescript · nextjs · nodejs · javascript · kotlin</p>
 <div align="center">
@@ -6,6 +6,7 @@
 
 <div align="center">
   <p align="center">Follow me on social media</p>
+</div>
 
 <a href="https://www.linkedin.com/in/bryangomes"><img src="https://img.shields.io/badge/-LinkedIn-0060ab?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://www.youtube.com/@foxzinsec"><img src="https://img.shields.io/youtube/channel/subscribers/UCNZRvS-8Ma-UtchhgPO97VQ" alt="Youtube" /></a>
@@ -13,6 +14,7 @@
 
 <div align="center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/foxz1n.png" alt="Your Image Badge" />
+</div>
   
 ![fox_activity](https://github-readme-activity-graph.vercel.app/graph?username=foxzinnx&bg_color=0d1117&color=FFF&line=FFF&point=FFF&area=true&hide_border=true)
 
