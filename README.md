@@ -1,4 +1,4 @@
-<h3 align="center">Fullstack Developer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="center">java · typescript · nextjs · nodejs · javascript · kotlin</p>
 <div align="center">
