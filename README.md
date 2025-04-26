@@ -16,5 +16,5 @@
   <img src="https://tryhackme-badges.s3.amazonaws.com/foxz1n.png" alt="Your Image Badge" />
 </div>
   
-![fox_activity](https://github-readme-activity-graph.vercel.app/graph?username=foxzinnx&bg_color=0d1117&color=FFF&line=FFF&point=FFF&area=true&hide_border=true)
+![fox_activity](https://github-readme-activity-graph.vercel.app/graph?username=foxzinnx&bg_color=0D1117&color=FFF&line=FFF&point=FFF&area=true&hide_border=true)
 
