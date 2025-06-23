@@ -11,10 +11,6 @@
 <a href="https://www.linkedin.com/in/bryangomes"><img src="https://img.shields.io/badge/-LinkedIn-0060ab?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://www.youtube.com/@foxzinsec"><img src="https://img.shields.io/youtube/channel/subscribers/UCNZRvS-8Ma-UtchhgPO97VQ" alt="Youtube" /></a>
 <a href="https://x.com/foxzincrf"><img src="https://img.shields.io/twitter/follow/foxzincrf" alt="Twitter"></a> 
-
-<div align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/foxz1n.png" alt="Your Image Badge" />
-</div>
   
 ![fox_activity](https://github-readme-activity-graph.vercel.app/graph?username=foxzinnx&bg_color=0D1117&color=FFF&line=FFF&point=FFF&area=true&hide_border=true)
 
