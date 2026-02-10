@@ -1,5 +1,5 @@
 ```typescript
-const me: Profile = {
+const me = {
   name: "Bryan",
   handle: "@foxz1n",
   location: "Brasil 🇧🇷",
