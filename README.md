@@ -1,7 +1,7 @@
 ```typescript
 const me: Profile = {
   name: "Bryan",
-  handle: "@foxzincrf",
+  handle: "@foxz1n",
   location: "Brasil 🇧🇷",
   role: "Desenvolvedor Full-Stack",
   focus: [
