@@ -16,13 +16,13 @@ const me = {
       "TypeScript",
       "React / Next.js",
       "Node.js",
+      "Zod",
       "Tailwind CSS",
       "PostgreSQL",
       "Git & GitHub"
     ],
     learning: [
       "Java",
-      "Zod",
       "GraphQL",
       "Docker & Kubernetes basics"
     ],
