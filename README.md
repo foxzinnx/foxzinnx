@@ -3,7 +3,7 @@ const me = {
   name: "Bryan",
   handle: "@foxz1n",
   location: "Brasil 🇧🇷",
-  role: "Desenvolvedor Full-Stack",
+  role: "Desenvolvedor Backend",
   focus: [
     "Web Applications",
     "Performance & DX",
