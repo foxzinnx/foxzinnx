@@ -28,14 +28,14 @@ const me = {
     ],
     interested: [
       "AI tooling",
-      "Go lang",
+      "Golang",
       "Three.js"
     ]
   },
   links: {
-    twitter     : "https://x.com/foxzincrf",
+    instagram   : "https://www.instagram.com/bryann.dev",
     linkedin    : "https://linkedin.com/in/bryangomes",
-    email       : "mailto:bryangomes16624@email.com",
+    email       : "bryangomes16624@email.com",
   },
 
   funFacts: [
