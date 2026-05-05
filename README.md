@@ -35,7 +35,6 @@ const me = {
   links: {
     instagram   : "https://www.instagram.com/bryann.dev",
     linkedin    : "https://linkedin.com/in/bryangomes",
-    email       : "bryangomes16624@email.com",
   },
 
   funFacts: [
