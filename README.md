@@ -45,5 +45,5 @@ const me = {
   ]
 };
 ```
-![fox_activity](https://github-readme-activity-graph.vercel.app/graph?username=foxzinnx&bg_color=0D1117&color=FFF&line=FFF&point=FFF&area=true&hide_border=true)
+![](https://github-readme-activity-graph.vercel.app/graph?username=foxzinnx&bg_color=0D1117&color=FFF&line=FFF&point=FFF&area=true&hide_border=true)
 
